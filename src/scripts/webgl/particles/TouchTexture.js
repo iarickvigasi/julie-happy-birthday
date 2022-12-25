@@ -15,6 +15,7 @@ export default class TouchTexture {
 
 	initTexture() {
 		this.canvas = document.createElement('canvas');
+		debugger
 		this.canvas.width = this.canvas.height = this.size;
 		this.ctx = this.canvas.getContext('2d');
 		this.ctx.fillStyle = 'black';

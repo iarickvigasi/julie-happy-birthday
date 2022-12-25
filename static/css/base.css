@@ -121,3 +121,16 @@ a:focus {
 		justify-content: center;
 	}
 }
+
+canvas {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.container {
+	width: auto;
+	height: 100vh;
+	overflow: auto;
+	position: relative;
+}

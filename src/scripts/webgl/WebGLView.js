@@ -12,7 +12,7 @@ export default class WebGLView {
 		this.app = app;
 
 		this.samples = [
-			'images/mountains.png',
+			'images/mountains_sadovi.png',
 			// 'images/julie.png',
 			// 'images/sample-02.png',
 			// 'images/sample-03.png',
